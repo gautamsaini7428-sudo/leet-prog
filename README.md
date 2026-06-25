@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0704-binary-search](https://github.com/gautamsaini7428-sudo/leet-prog/tree/master/0704-binary-search) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/gautamsaini7428-sudo/leet-prog/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
@@ -15,4 +16,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/gautamsaini7428-sudo/leet-prog/tree/master/2149-rearrange-array-elements-by-sign) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/gautamsaini7428-sudo/leet-prog/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
