@@ -6,11 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/gautamsaini7428-sudo/leet-prog/tree/master/0031-next-permutation) |
 | [0704-binary-search](https://github.com/gautamsaini7428-sudo/leet-prog/tree/master/0704-binary-search) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/gautamsaini7428-sudo/leet-prog/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/gautamsaini7428-sudo/leet-prog/tree/master/0031-next-permutation) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/gautamsaini7428-sudo/leet-prog/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
