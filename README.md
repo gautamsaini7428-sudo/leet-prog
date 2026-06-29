@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/gautamsaini7428-sudo/leet-prog/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/gautamsaini7428-sudo/leet-prog/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/gautamsaini7428-sudo/leet-prog/tree/master/0128-longest-consecutive-sequence) |
+| [0560-subarray-sum-equals-k](https://github.com/gautamsaini7428-sudo/leet-prog/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/gautamsaini7428-sudo/leet-prog/tree/master/0704-binary-search) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/gautamsaini7428-sudo/leet-prog/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/gautamsaini7428-sudo/leet-prog/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/gautamsaini7428-sudo/leet-prog/tree/master/0128-longest-consecutive-sequence) |
+| [0560-subarray-sum-equals-k](https://github.com/gautamsaini7428-sudo/leet-prog/tree/master/0560-subarray-sum-equals-k) |
 ## Union-Find
 |  |
 | ------- |
@@ -46,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/gautamsaini7428-sudo/leet-prog/tree/master/0048-rotate-image) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/gautamsaini7428-sudo/leet-prog/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
