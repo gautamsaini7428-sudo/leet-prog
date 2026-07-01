@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/gautamsaini7428-sudo/leet-prog/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/gautamsaini7428-sudo/leet-prog/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/gautamsaini7428-sudo/leet-prog/tree/master/0128-longest-consecutive-sequence) |
+| [0229-majority-element-ii](https://github.com/gautamsaini7428-sudo/leet-prog/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/gautamsaini7428-sudo/leet-prog/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/gautamsaini7428-sudo/leet-prog/tree/master/0704-binary-search) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/gautamsaini7428-sudo/leet-prog/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/gautamsaini7428-sudo/leet-prog/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/gautamsaini7428-sudo/leet-prog/tree/master/0128-longest-consecutive-sequence) |
+| [0229-majority-element-ii](https://github.com/gautamsaini7428-sudo/leet-prog/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/gautamsaini7428-sudo/leet-prog/tree/master/0560-subarray-sum-equals-k) |
 ## Union-Find
 |  |
@@ -57,4 +59,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/gautamsaini7428-sudo/leet-prog/tree/master/0118-pascals-triangle) |
+## Sorting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/gautamsaini7428-sudo/leet-prog/tree/master/0229-majority-element-ii) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/gautamsaini7428-sudo/leet-prog/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
