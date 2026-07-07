@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/gautamsaini7428-sudo/leet-prog/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/gautamsaini7428-sudo/leet-prog/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/gautamsaini7428-sudo/leet-prog/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/gautamsaini7428-sudo/leet-prog/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/gautamsaini7428-sudo/leet-prog/tree/master/0035-search-insert-position) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/gautamsaini7428-sudo/leet-prog/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/gautamsaini7428-sudo/leet-prog/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/gautamsaini7428-sudo/leet-prog/tree/master/0031-next-permutation) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/gautamsaini7428-sudo/leet-prog/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/gautamsaini7428-sudo/leet-prog/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/gautamsaini7428-sudo/leet-prog/tree/master/0018-4sum) |
 | [0229-majority-element-ii](https://github.com/gautamsaini7428-sudo/leet-prog/tree/master/0229-majority-element-ii) |
 ## Counting
 |  |
