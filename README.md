@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/gautamsaini7428-sudo/leet-prog/tree/master/0162-find-peak-element) |
 | [0229-majority-element-ii](https://github.com/gautamsaini7428-sudo/leet-prog/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/gautamsaini7428-sudo/leet-prog/tree/master/0240-search-a-2d-matrix-ii) |
+| [0525-contiguous-array](https://github.com/gautamsaini7428-sudo/leet-prog/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/gautamsaini7428-sudo/leet-prog/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/gautamsaini7428-sudo/leet-prog/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/gautamsaini7428-sudo/leet-prog/tree/master/0704-binary-search) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/gautamsaini7428-sudo/leet-prog/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/gautamsaini7428-sudo/leet-prog/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/gautamsaini7428-sudo/leet-prog/tree/master/0229-majority-element-ii) |
+| [0525-contiguous-array](https://github.com/gautamsaini7428-sudo/leet-prog/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/gautamsaini7428-sudo/leet-prog/tree/master/0560-subarray-sum-equals-k) |
 ## Union-Find
 |  |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/gautamsaini7428-sudo/leet-prog/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/gautamsaini7428-sudo/leet-prog/tree/master/0560-subarray-sum-equals-k) |
 ## Dynamic Programming
 |  |
