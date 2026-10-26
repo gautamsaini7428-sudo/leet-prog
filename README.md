@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/gautamsaini7428-sudo/leet-prog/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/gautamsaini7428-sudo/leet-prog/tree/master/1901-find-a-peak-element-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/gautamsaini7428-sudo/leet-prog/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2643-row-with-maximum-ones](https://github.com/gautamsaini7428-sudo/leet-prog/tree/master/2643-row-with-maximum-ones) |
 ## Two Pointers
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/gautamsaini7428-sudo/leet-prog/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/gautamsaini7428-sudo/leet-prog/tree/master/0240-search-a-2d-matrix-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/gautamsaini7428-sudo/leet-prog/tree/master/1901-find-a-peak-element-ii) |
+| [2643-row-with-maximum-ones](https://github.com/gautamsaini7428-sudo/leet-prog/tree/master/2643-row-with-maximum-ones) |
 ## Math
 |  |
 | ------- |
