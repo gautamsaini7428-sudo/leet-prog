@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/gautamsaini7428-sudo/leet-prog/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/gautamsaini7428-sudo/leet-prog/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/gautamsaini7428-sudo/leet-prog/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/gautamsaini7428-sudo/leet-prog/tree/master/0031-next-permutation) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/gautamsaini7428-sudo/leet-prog/tree/master/0005-longest-palindromic-substring) |
 | [0118-pascals-triangle](https://github.com/gautamsaini7428-sudo/leet-prog/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/gautamsaini7428-sudo/leet-prog/tree/master/0119-pascals-triangle-ii) |
 | [0410-split-array-largest-sum](https://github.com/gautamsaini7428-sudo/leet-prog/tree/master/0410-split-array-largest-sum) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/gautamsaini7428-sudo/leet-prog/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/gautamsaini7428-sudo/leet-prog/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/gautamsaini7428-sudo/leet-prog/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/gautamsaini7428-sudo/leet-prog/tree/master/0020-valid-parentheses) |
@@ -164,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/gautamsaini7428-sudo/leet-prog/tree/master/0410-split-array-largest-sum) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/gautamsaini7428-sudo/leet-prog/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
