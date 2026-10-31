@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/gautamsaini7428-sudo/leet-prog/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/gautamsaini7428-sudo/leet-prog/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/gautamsaini7428-sudo/leet-prog/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/gautamsaini7428-sudo/leet-prog/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/gautamsaini7428-sudo/leet-prog/tree/master/0229-majority-element-ii) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/gautamsaini7428-sudo/leet-prog/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/gautamsaini7428-sudo/leet-prog/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/gautamsaini7428-sudo/leet-prog/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/gautamsaini7428-sudo/leet-prog/tree/master/0069-sqrtx) |
 ## Prefix Sum
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/gautamsaini7428-sudo/leet-prog/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/gautamsaini7428-sudo/leet-prog/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/gautamsaini7428-sudo/leet-prog/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/gautamsaini7428-sudo/leet-prog/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/gautamsaini7428-sudo/leet-prog/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
