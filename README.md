@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/gautamsaini7428-sudo/leet-prog/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/gautamsaini7428-sudo/leet-prog/tree/master/0022-generate-parentheses) |
 | [0118-pascals-triangle](https://github.com/gautamsaini7428-sudo/leet-prog/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/gautamsaini7428-sudo/leet-prog/tree/master/0119-pascals-triangle-ii) |
 | [0410-split-array-largest-sum](https://github.com/gautamsaini7428-sudo/leet-prog/tree/master/0410-split-array-largest-sum) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/gautamsaini7428-sudo/leet-prog/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/gautamsaini7428-sudo/leet-prog/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/gautamsaini7428-sudo/leet-prog/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/gautamsaini7428-sudo/leet-prog/tree/master/0022-generate-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/gautamsaini7428-sudo/leet-prog/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/gautamsaini7428-sudo/leet-prog/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/gautamsaini7428-sudo/leet-prog/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/gautamsaini7428-sudo/leet-prog/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/gautamsaini7428-sudo/leet-prog/tree/master/0022-generate-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/gautamsaini7428-sudo/leet-prog/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/gautamsaini7428-sudo/leet-prog/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Newton's Method
@@ -179,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/gautamsaini7428-sudo/leet-prog/tree/master/0050-powx-n) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/gautamsaini7428-sudo/leet-prog/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
