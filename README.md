@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/gautamsaini7428-sudo/leet-prog/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/gautamsaini7428-sudo/leet-prog/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/gautamsaini7428-sudo/leet-prog/tree/master/0069-sqrtx) |
+| [1922-count-good-numbers](https://github.com/gautamsaini7428-sudo/leet-prog/tree/master/1922-count-good-numbers) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/gautamsaini7428-sudo/leet-prog/tree/master/0050-powx-n) |
+| [1922-count-good-numbers](https://github.com/gautamsaini7428-sudo/leet-prog/tree/master/1922-count-good-numbers) |
 ## Backtracking
 |  |
 | ------- |
