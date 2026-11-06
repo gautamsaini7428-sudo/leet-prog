@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/gautamsaini7428-sudo/leet-prog/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/gautamsaini7428-sudo/leet-prog/tree/master/0069-sqrtx) |
 | [1922-count-good-numbers](https://github.com/gautamsaini7428-sudo/leet-prog/tree/master/1922-count-good-numbers) |
+| [3405-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/gautamsaini7428-sudo/leet-prog/tree/master/3405-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -194,4 +195,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/gautamsaini7428-sudo/leet-prog/tree/master/0078-subsets) |
+## Combinatorics
+|  |
+| ------- |
+| [3405-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/gautamsaini7428-sudo/leet-prog/tree/master/3405-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [3405-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/gautamsaini7428-sudo/leet-prog/tree/master/3405-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 <!---LeetCode Topics End-->
